@@ -1,0 +1,35 @@
+body {
+    background-image: url(./OIP\ \(2\).jpeg);
+}
+
+.header,
+.footer {
+    background-color: skyblue;
+    text-align: center;
+    padding: 30px;
+}
+
+img {
+    width: 100px;
+    padding-right: 300px;
+
+}
+
+.content {
+    display: flex;
+    padding: 20px;
+}
+
+.content-left {
+    width: 35%;
+    background-color: hotpink;
+}
+
+.content-right {
+    width: 75%;
+    height: fit-content;
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 10px;
+
+}
